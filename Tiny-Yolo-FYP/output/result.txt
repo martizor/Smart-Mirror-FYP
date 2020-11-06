@@ -1,0 +1,27 @@
+ GPU isn't used 
+mini_batch = 1, batch = 16, time_steps = 1, train = 0 
+
+ seen 64, trained: 256 K-images (4 Kilo-batches_64) 
+folder input=Images/ and output=output/
+Start processing Images/Image36.jpeg
+Images/Image36.jpeg: Predicted in 314.573000 milli-seconds.
+love: 39.102169%	left_x:   17	top_y:  131	width:  116	height:  156
+love: 67.602913%	left_x:  274	top_y:  160	width:  122	height:  157
+End
+Start processing Images/Image37.jpeg
+Images/Image37.jpeg: Predicted in 318.180000 milli-seconds.
+love: 34.507332%	left_x:  256	top_y:   57	width:  109	height:  179
+End
+Start processing Images/Image44.jpeg
+Images/Image44.jpeg: Predicted in 322.253000 milli-seconds.
+End
+Start processing Images/Image_martin_hand299.jpeg
+Images/Image_martin_hand299.jpeg: Predicted in 319.026000 milli-seconds.
+five: 98.490616%	left_x:  116	top_y:  123	width:   94	height:  128
+five: 98.124985%	left_x:  261	top_y:  106	width:  100	height:  128
+End
+Start processing Images/Image_martin_sarang2412.jpeg
+Images/Image_martin_sarang2412.jpeg: Predicted in 319.351000 milli-seconds.
+love: 96.208412%	left_x:   82	top_y:  197	width:   70	height:  128
+love: 90.228699%	left_x:  283	top_y:  220	width:   79	height:  123
+End

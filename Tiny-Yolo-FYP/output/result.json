@@ -1,0 +1,40 @@
+[
+{
+ "frame_id":1, 
+ "filename":"Images/Image36.jpeg", 
+ "objects": [ 
+  {"class_id":0, "name":"love", "relative_coordinates":{"left_x": 274, "top_y": 160, "width": 122, "height": 157}, "confidence":0.676029}, 
+  {"class_id":0, "name":"love", "relative_coordinates":{"left_x":  17, "top_y": 131, "width": 116, "height": 156}, "confidence":0.391022}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"Images/Image37.jpeg", 
+ "objects": [ 
+  {"class_id":0, "name":"love", "relative_coordinates":{"left_x": 256, "top_y":  57, "width": 109, "height": 179}, "confidence":0.345073}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"Images/Image44.jpeg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"Images/Image_martin_hand299.jpeg", 
+ "objects": [ 
+  {"class_id":1, "name":"five", "relative_coordinates":{"left_x": 116, "top_y": 123, "width":  94, "height": 128}, "confidence":0.984906}, 
+  {"class_id":1, "name":"five", "relative_coordinates":{"left_x": 261, "top_y": 106, "width": 100, "height": 128}, "confidence":0.981250}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"Images/Image_martin_sarang2412.jpeg", 
+ "objects": [ 
+  {"class_id":0, "name":"love", "relative_coordinates":{"left_x":  82, "top_y": 197, "width":  70, "height": 128}, "confidence":0.962084}, 
+  {"class_id":0, "name":"love", "relative_coordinates":{"left_x": 283, "top_y": 220, "width":  79, "height": 123}, "confidence":0.902287}
+ ] 
+}
+]
