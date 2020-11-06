@@ -1,0 +1,16 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="clancey.simpleauth.simpleauthflutter" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->C:\Users\Martin\flutter\.pub-cache\hosted\pub.dartlang.org\simple_auth_flutter-2.0.7\android\src\main\AndroidManifest.xml
+6
+7    <application>
+7-->C:\Users\Martin\flutter\.pub-cache\hosted\pub.dartlang.org\simple_auth_flutter-2.0.7\android\src\main\AndroidManifest.xml:3:5-6:19
+8        <activity android:name="clancey.simpleauth.simpleauthflutter.WebAuthenticatorActivity" >
+8-->C:\Users\Martin\flutter\.pub-cache\hosted\pub.dartlang.org\simple_auth_flutter-2.0.7\android\src\main\AndroidManifest.xml:4:9-5:20
+8-->C:\Users\Martin\flutter\.pub-cache\hosted\pub.dartlang.org\simple_auth_flutter-2.0.7\android\src\main\AndroidManifest.xml:4:19-95
+9        </activity>
+10    </application>
+11
+12</manifest>
