@@ -1,0 +1,37 @@
+
+
+.Time {
+    position: relative;
+    left: 420px;
+    letter-spacing: -3.5px;
+    font-size: 40px;
+    font-family: Nanum;
+    font-weight: 1;
+    color: white;
+    
+}
+
+.Day {
+    position: relative;
+    top: -10px;
+    left: 510px;
+    font-size: 15px;
+    font-family: PointOne;
+    font-weight: 1;
+    color: white;
+}
+
+.Month {
+    position: relative;
+    top: -10px;
+    left: 480px;
+    font-size: 15px;
+    font-family: PointOne;
+    font-weight: 1;
+    color: white;
+}
+
+body {
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+  }

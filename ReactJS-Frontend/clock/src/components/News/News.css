@@ -1,0 +1,42 @@
+  
+  .News-Title{
+    font-size: 12.5px ;
+    text-align:middle;
+    font-family: PointOne ;
+    color: white;
+    position: relative;
+    left: 250px;
+    top: 300px;
+  }
+
+.Content1{
+    text-align:middle;
+    font-size: 8px;
+    font-family: PointOne ;
+    color: white;
+    position: relative;
+    left: 85px;
+    top: 305px;
+  }
+  
+ .Content2{
+    text-align:middle;
+    font-size: 8px;
+    font-family: PointOne ;
+    color: white;
+    position: relative;
+    left: 85px;
+    top: 305px;
+  }
+  
+  .Content3{
+    margin-left: 40px;
+    text-align:middle;
+    font-size: 8px;
+    font-family: PointOne ;
+    color: white;
+    position: relative;
+    left: 55px;
+    top: 305px;
+  }
+  

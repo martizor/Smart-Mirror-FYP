@@ -1,0 +1,25 @@
+    .Title {
+    color: white;
+    font-size: 25px;
+    font-family: PointOne ;
+    position: relative;
+    top: -250px;
+    left: 10px;
+  }
+
+  .Event {
+    color: white;
+    font-size: 14px;
+    font-family: PointOne ;
+    position: relative;
+    top: -250px;
+    left: 10px;
+  }
+  .Event2 {
+    color: grey;
+    font-size: 11px;
+    font-family: PointOne ;
+    position: relative;
+    left: 10px;
+    top: -250px;
+  }

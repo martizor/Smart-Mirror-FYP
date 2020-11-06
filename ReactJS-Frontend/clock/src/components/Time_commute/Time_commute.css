@@ -1,0 +1,86 @@
+.Commute-Title {
+    font-size: 20px ;
+    font-family: PointOne ;
+    color: white;
+    font-weight: bolder;
+    position: absolute;
+    top: 120px;
+    left:390px
+}
+
+.Commute-Time {
+    font-size: 13px ;
+    font-family: PointOne ;
+    color: white;
+    position: absolute;
+    top: 160px;
+    left: 360px;
+
+}
+
+.Commute-Time2 {
+  font-size: 13px ;
+  font-family: PointOne ;
+  color: white;
+  position: absolute;
+  top: 185px;
+  left: 360px;
+
+}
+
+.Commute-Time3 {
+  font-size: 13px ;
+  font-family: PointOne ;
+  color: white;
+  position: absolute;
+  top: 210px;
+  left: 360px;
+}
+
+.Commute-Time4 {
+  font-size: 13px ;
+  font-family: PointOne ;
+  color: white;
+  position: absolute;
+  top: 240px;
+  left: 360px;  
+}
+
+.car1 {
+    width: auto;
+    max-width: 100%;
+    height: 17px;
+    position: absolute;
+    top: 160px;
+    left: 330px;
+
+  }
+
+  .car2 {
+    width: auto;
+    max-width: 100%;
+    height: 17px;
+    position: absolute;
+    top: 185px;
+    left: 330px;
+  }
+
+  .car3 {
+    width: auto;
+    max-width: 100%;
+    height: 17px;
+    position: absolute;
+    top: 210px;
+    left: 330px;
+  }
+
+  .car4 {
+    width: auto;
+    max-width: 100%;
+    height: 17px;
+    position: absolute;
+    top: 240px;
+    left: 330px;
+  }
+  
+  

@@ -1,0 +1,49 @@
+ .temp {
+    position: relative;
+    top: -105px;
+    left: 10px;
+    color: white;
+    font-size: 50px;
+    font-family: Nanum;
+    letter-spacing: -6px;
+  }
+  
+.weather {
+    color: white;
+    position: relative;
+    top: -120px;
+    left: 10px;
+    font-family: PointOne;
+    font-size: 18px;
+  }
+  
+ .precip {
+    position: relative;
+    top: -113px;
+    left: 40px;
+    color: white;
+    font-size: 18px;
+  }
+
+.umbrella {
+  width: auto;
+  max-width: 100%;
+  height: 17px;
+  position: relative;
+  top: -140px;
+  left: 10px;
+}
+
+.umbrella_logo {
+  background-attachment: fixed;
+}
+
+.weather_icon  {
+	width:auto;
+	max-width:100%;
+  height:60px;
+  position: relative;
+  top:-250px;
+  left: 95px;
+
+}
